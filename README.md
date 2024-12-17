@@ -16,16 +16,6 @@ My name is Corbyn and I am a student at St.Mother Teresa High School http://mths
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
-
-<details><summary>About this game section</summary>
-  
-  The section is developed based on my previopus GameBoy emulator project [Gameboy.Live](https://github.com/HFO4/gameboy.live), you can use this project to deploy your own "cloud gaming server".
-</details>
-
-<details><summary>Statistics of this game so far</summary>
-  <img src="https://playground.aoaoao.me/Api/GBStatistic" />
-</details>
 
 
 <!---
